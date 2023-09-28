@@ -78,13 +78,6 @@
 			"pfp": "https://i.pinimg.com/564x/d1/a1/e6/d1a1e62ec5a382b43217f69dba3ed0de.jpg"
 		},
 		{
-			"quote": "No one knows what the future holds. That's why its potential is infinite.",
-			"author": "Rintarou Okabe",
-			"anime": "Steins;Gate",
-			"jpn": "誰も未来が何を持っているか知らない。だからこそ、その可能性は無限大なのだ。",
-			"pfp": "https://i.pinimg.com/564x/7d/b9/16/7db9162fb26619d9a18a90542c1ea15a.jpg"
-		},
-		{
 			"quote": "A dream... It's something you do for yourself, not for others.",
 			"author": "Jotaro Kujo",
 			"anime": "JoJo's Bizarre Adventure",
@@ -97,13 +90,6 @@
 			"anime": "Hunter x Hunter",
 			"jpn": "君は小さな遠回りを最大限に楽しむべきだ。なぜならそこには君が欲する以上に重要なものが見つかるからだ。",
 			"pfp": "https://i.pinimg.com/736x/6d/cd/8d/6dcd8d618014a7f4773ad7f1c8368b92.jpg"
-		},
-		{
-			"quote": "It's okay not to be okay as long as you are willing to be honest about what you are feeling and want to try your best to overcome your emotional problems.",
-			"author": "Yui Yuigahama",
-			"anime": "My Teen Romantic Comedy SNAFU",
-			"jpn": "大丈夫ならなくてもいい、ただし自分の気持ちを素直に語り、感情的な問題を乗り越えようとする意志があるなら。",
-			"pfp": "https://i.pinimg.com/564x/e1/55/94/e15594a1ebed28e40a7836dd7927b150.jpg"
 		},
 		{
 			"quote": "You have no idea how powerful a single word can be.",
@@ -139,6 +125,20 @@
 			"anime": "Jujutsu Kaisen",
 			"jpn": "できるかどうかではなく、やらなければいけないのです。",
 			"pfp": "https://i.pinimg.com/564x/8d/a6/8a/8da68a511e8fab1d11ee7e3cabe8355a.jpg"
+		},
+		{
+			"quote": "The longer you live… The more you realize that reality is just made of pain, suffering and emptiness",
+			"author": "Uchiha Madara",
+			"anime": "Naruto Shippuden",
+			"jpn": "長く生きれば生きるほど…現実は痛み、苦しみ、虚しさだけでできていることに気づくようになる",
+			"pfp": "https://i.pinimg.com/564x/df/87/b7/df87b7333677fd851a55642bdf81b59d.jpg"
+		},
+		{
+			"quote": "Look at me! There is nothing in my heart! I don’t feel pain any longer",
+			"author": "Uchiha Obito",
+			"anime": "Naruto Shippuden",
+			"jpn": "私を見て！ 私の心には何もありません！ もう痛みを感じません",
+			"pfp": "https://i.pinimg.com/564x/22/b0/52/22b0524ba65369e8f944c2b803fba645.jpg"
 		}
 	]
 }
