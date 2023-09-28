@@ -140,5 +140,11 @@
 			"jpn": "私を見て！ 私の心には何もありません！ もう痛みを感じません",
 			"pfp": "https://i.pinimg.com/564x/22/b0/52/22b0524ba65369e8f944c2b803fba645.jpg"
 		}
+	],
+	"admin": [
+		{
+			"username": "admin",
+			"password": "12345"
+		}
 	]
 }
